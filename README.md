@@ -21,6 +21,9 @@ Great source for GDP data predating 1947.
 Historical S&P 500 earnings, plus estimates from economist Rober Shiller for a simulated S&P 500 going back to 1871. 
 
 [Shiller Historical Data](http://www.econ.yale.edu/~shiller/data.htm)
+
+Data on historical S&P 500, interest rates, housing prices, and more.
+
 []()
 []()
 []()
