@@ -14,6 +14,10 @@ Great source for GDP data predating 1947.
 []()
 []()
 
+## Money Supply
+
+* [Divisia M4](http://www.centerforfinancialstability.org/amfm_data.php?startc=2004&startt=2015#xl)
+
 ## Stock Market
 
 [Historical S&P 500 Earnings](https://www.multpl.com/s-p-500-earnings)
