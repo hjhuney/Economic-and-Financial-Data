@@ -18,6 +18,7 @@ Great source for GDP data predating 1947.
 
 * [Divisia M4](http://www.centerforfinancialstability.org/amfm_data.php?startc=2004&startt=2015#xl)
 * [How Divisia M4 is Compiled](https://econ.tepper.cmu.edu/barnett/divisia_data_sources.pdf)
+* [Components of M4, p19](http://www2.ku.edu/~kuwpaper/2009Papers/201208.pdf)
 
 ## Stock Market
 
