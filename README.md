@@ -21,6 +21,8 @@ Great source for GDP data predating 1947.
 * [How Divisia M4 is Compiled](https://econ.tepper.cmu.edu/barnett/divisia_data_sources.pdf)
 * [Components of M4, p18 - 19](http://www2.ku.edu/~kuwpaper/2009Papers/201208.pdf). Try M2 + large time deposits + Overnight and Term Repos + Commercial Paper + Treasury Bills
 
+* [Japan M2 and M3 Money Supply](https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$nme_a000_en&lstSelection=MD02)
+
 ## Stock Market
 
 [Historical S&P 500 Earnings](https://www.multpl.com/s-p-500-earnings)
