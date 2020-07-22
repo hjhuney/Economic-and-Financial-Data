@@ -33,7 +33,9 @@ Historical S&P 500 earnings, plus estimates from economist Rober Shiller for a s
 
 Data on historical S&P 500, interest rates, housing prices, and more.
 
-[]()
+## Japan
+
+[Japanese Stocks](https://www.franklintempleton.com/investor/investments-and-solutions/investment-options/etfs/portfolio/26357/franklin-ftse-japan-etf/FLJP)
 []()
 []()
 []()
